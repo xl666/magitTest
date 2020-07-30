@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 def main():
-    print('hola mundo')
+    print('adios mundo')
 
 
 if __name__ == '__main__':
