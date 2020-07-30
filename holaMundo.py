@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-def otraFun3():
+def otraFun():
     print('nana')
 
 
