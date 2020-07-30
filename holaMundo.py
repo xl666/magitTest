@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 def main():
-    print('tercer mundo')
+    print('cuarto mundo')
 
 
 if __name__ == '__main__':
