@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-def otraFun():
+def otraFunX():
     print('nana')
 
 
