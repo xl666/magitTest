@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+def otraFun():
+    print('nana')
+
+
 def main():
     print('quinto mundo')
     
